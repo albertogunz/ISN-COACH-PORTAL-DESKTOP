@@ -1,0 +1,11 @@
+:root {
+  --default-bold-body-font-family: "SFPro Text-Semibold", Helvetica;
+  --default-bold-body-font-size: 17px;
+  --default-bold-body-font-style: normal;
+  --default-bold-body-font-weight: 400;
+  --default-bold-body-letter-spacing: -0.40799999237060547px;
+  --default-bold-body-line-height: 22px;
+  --defaultsystembluedark: rgba(10, 132, 255, 1);
+  --defaultsystembluelight: rgba(0, 122, 255, 1);
+  --label-colordarkprimary: rgba(255, 255, 255, 1);
+}

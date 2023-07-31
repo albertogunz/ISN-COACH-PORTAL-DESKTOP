@@ -1,0 +1,133 @@
+.button {
+  align-items: center;
+  border-radius: 10px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 13px 20px;
+  position: relative;
+}
+
+.button .label {
+  font-family: var(--default-bold-body-font-family);
+  font-size: var(--default-bold-body-font-size);
+  font-style: var(--default-bold-body-font-style);
+  font-weight: var(--default-bold-body-font-weight);
+  letter-spacing: var(--default-bold-body-letter-spacing);
+  line-height: var(--default-bold-body-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .icon {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .SF-symbol-arrow {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.button .label-2 {
+  font-family: var(--default-bold-body-font-family);
+  font-size: var(--default-bold-body-font-size);
+  font-style: var(--default-bold-body-font-style);
+  font-weight: var(--default-bold-body-font-weight);
+  letter-spacing: var(--default-bold-body-letter-spacing);
+  line-height: var(--default-bold-body-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.dark-mode-false.tinted {
+  background-color: #007aff26;
+}
+
+.button.dark-mode-false.filled {
+  background-color: var(--defaultsystembluelight);
+}
+
+.button.dark-mode-true.filled {
+  background-color: var(--defaultsystembluedark);
+}
+
+.button.gray.dark-mode-true {
+  background-color: #3f4145;
+}
+
+.button.dark-mode-false.gray {
+  background-color: #e1e2e2;
+}
+
+.button.dark-mode-true.tinted {
+  background-color: #0a84ff26;
+}
+
+.button.filled .label {
+  color: var(--label-colordarkprimary);
+}
+
+.button.dark-mode-false.tinted .label {
+  color: var(--defaultsystembluelight);
+}
+
+.button.plain.dark-mode-true .label {
+  color: var(--defaultsystembluedark);
+}
+
+.button.gray.dark-mode-true .label {
+  color: var(--defaultsystembluedark);
+}
+
+.button.dark-mode-false.plain .label {
+  color: var(--defaultsystembluelight);
+}
+
+.button.dark-mode-false.gray .label {
+  color: var(--defaultsystembluelight);
+}
+
+.button.dark-mode-true.tinted .label {
+  color: var(--defaultsystembluedark);
+}
+
+.button.filled .label-2 {
+  color: var(--label-colordarkprimary);
+}
+
+.button.dark-mode-false.tinted .label-2 {
+  color: var(--defaultsystembluelight);
+}
+
+.button.plain.dark-mode-true .label-2 {
+  color: var(--defaultsystembluedark);
+}
+
+.button.gray.dark-mode-true .label-2 {
+  color: var(--defaultsystembluedark);
+}
+
+.button.dark-mode-false.plain .label-2 {
+  color: var(--defaultsystembluelight);
+}
+
+.button.dark-mode-false.gray .label-2 {
+  color: var(--defaultsystembluelight);
+}
+
+.button.dark-mode-true.tinted .label-2 {
+  color: var(--defaultsystembluedark);
+}

@@ -1,0 +1,330 @@
+.login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.login .overlap {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.login .p {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 152px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 489px;
+  width: 473px;
+}
+
+.login .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  height: 22px;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 651px;
+  width: 327px;
+}
+
+.login .rectangle {
+  background-color: #1565d8;
+  height: 3000px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+
+.login .LEFT-COLUMN {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 457px;
+  justify-content: center;
+  left: 80px;
+  position: absolute;
+  top: 217px;
+  width: 364px;
+}
+
+.login .layer {
+  align-self: stretch;
+  height: 164.92px;
+  position: relative;
+  width: 100%;
+}
+
+.login .text-wrapper-3 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: relative;
+}
+
+.login .text-wrapper-4 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.login .LOGIN-BOX {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 9px;
+  height: 347px;
+  left: 740px;
+  position: absolute;
+  top: 290px;
+}
+
+.login .HEADLINE {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 63px;
+  position: relative;
+  width: 400px;
+}
+
+.login .h-1 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 400px;
+}
+
+.login .text-wrapper-5 {
+  align-self: stretch;
+  color: #8591a5;
+  flex: 1;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.login .div-line {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.login .emiail-input {
+  height: 63px !important;
+  position: relative !important;
+  width: 400px !important;
+}
+
+.login .input-fields-instance {
+  height: 63px !important;
+}
+
+.login .design-component-instance-node {
+  top: 23px !important;
+}
+
+.login .input-fields-2 {
+  height: 63px !important;
+  width: 400px !important;
+}
+
+.login .input-fields-3 {
+  top: 20px !important;
+}
+
+.login .emiail-input-2 {
+  margin-bottom: -4764px !important;
+  margin-right: -12278px !important;
+  margin-top: unset !important;
+  width: 1px !important;
+}
+
+.login .emiail-input-3 {
+  width: 198px !important;
+}
+
+.login .emiail-input-4 {
+  margin-bottom: -4764px !important;
+  margin-right: -12476px !important;
+  margin-top: unset !important;
+  width: 1px !important;
+}
+
+.login .overlap-2 {
+  border-radius: 20px 0px 0px 0px;
+  height: 63px;
+  position: relative;
+}
+
+.login .input-fields-4 {
+  height: 63px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 400px !important;
+}
+
+.login .input-fields-5 {
+  margin-bottom: -4692px !important;
+  margin-right: -12393px !important;
+  margin-top: unset !important;
+  width: 1px !important;
+}
+
+.login .input-fields-6 {
+  width: 83px !important;
+}
+
+.login .input-fields-7 {
+  margin-bottom: -4692px !important;
+  margin-right: -12476px !important;
+  margin-top: unset !important;
+  width: 1px !important;
+}
+
+.login .eye-show-instance {
+  height: 19px !important;
+  left: 367px !important;
+  top: 17px !important;
+  width: 18px !important;
+}
+
+.login .terms {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  height: 20px;
+  justify-content: center;
+  position: relative;
+  width: 398px;
+}
+
+.login .square-instance {
+  height: 20px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 20px !important;
+}
+
+.login .text-wrapper-6 {
+  color: #696f79;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.login .button-instance {
+  border-radius: 0px 20px 0px 20px !important;
+  display: flex !important;
+  gap: 20px !important;
+  height: 64px !important;
+  width: 400px !important;
+}
+
+.login .button-2 {
+  margin-top: unset !important;
+}
+
+.login .BOTTOM-STUFF {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 150px;
+  justify-content: center;
+  position: relative;
+}
+
+.login .text-wrapper-7 {
+  color: #696f79;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.login .remeber-me {
+  height: 20px;
+  margin-right: -2px;
+  position: relative;
+  width: 123px;
+}
+
+.login .square-checkbox-solid {
+  height: 20px !important;
+  width: 20px !important;
+}
+
+.login .text-wrapper-8 {
+  color: #696f79;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
